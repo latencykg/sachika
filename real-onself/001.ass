@@ -9,13 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 512
 PlayResY: 384
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../../../Movies/三澤紗千香/三澤紗千香のreal oneself/real-oneself-001-2013.01.07.mp4
-Video File: ../../../../Movies/三澤紗千香/三澤紗千香のreal oneself/real-oneself-001-2013.01.07.mp4
-Video AR Mode: 4
-Video AR Value: 1.333333
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans CJK SC Bold,30,&H00FFFFFF,&H000000FF,&H00404040,&H805F3903,0,0,0,0,100,100,0,0,1,1.6,0,2,5,5,20,1
